@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personalportfolio/static/css/main.822035f0.css",
+    "main.js": "/personalportfolio/static/js/main.ce281aeb.js",
+    "static/media/Balakumaran_E_CV.pdf": "/personalportfolio/static/media/Balakumaran_E_CV.a9edfa33e1df1d8a3194.pdf",
+    "static/media/me.png": "/personalportfolio/static/media/me.13364059574d0c830ab9.png",
+    "static/media/about.jpeg": "/personalportfolio/static/media/about.54cadfd37a1c0d0a199a.jpeg",
+    "static/media/nptel.jfif": "/personalportfolio/static/media/nptel.61526cf19d3726367004.jfif",
+    "static/media/cc.jfif": "/personalportfolio/static/media/cc.8578dc0f182c7988a616.jfif",
+    "static/media/edusera.jfif": "/personalportfolio/static/media/edusera.487b5cb1c2b64ded6241.jfif",
+    "static/media/guvi.jfif": "/personalportfolio/static/media/guvi.612ed2e64b446ed49075.jfif",
+    "static/media/tp.jfif": "/personalportfolio/static/media/tp.6a11fd45aa2f84acf859.jfif",
+    "static/media/commscope.jfif": "/personalportfolio/static/media/commscope.f3550a933d3d6ad0f404.jfif",
+    "static/media/google.jfif": "/personalportfolio/static/media/google.0c4c117d87e0589a8aa8.jfif",
+    "static/media/cisco.jfif": "/personalportfolio/static/media/cisco.841d90a2737c14fc183b.jfif",
+    "static/media/ae.jfif": "/personalportfolio/static/media/ae.5e5ba5574a664d70bcb1.jfif",
+    "static/media/devtown.jfif": "/personalportfolio/static/media/devtown.7755be74e3beee35d5b3.jfif",
+    "static/media/udemy.jfif": "/personalportfolio/static/media/udemy.8071f3f25271790dd4e1.jfif",
+    "static/media/prepinsta.jfif": "/personalportfolio/static/media/prepinsta.f84c77057cd26aca2785.jfif",
+    "static/media/simplilearn.jfif": "/personalportfolio/static/media/simplilearn.696b5929e3dd4e761017.jfif",
+    "index.html": "/personalportfolio/index.html",
+    "main.822035f0.css.map": "/personalportfolio/static/css/main.822035f0.css.map",
+    "main.ce281aeb.js.map": "/personalportfolio/static/js/main.ce281aeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822035f0.css",
+    "static/js/main.ce281aeb.js"
+  ]
+}
