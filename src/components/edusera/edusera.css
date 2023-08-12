@@ -1,0 +1,46 @@
+.responsibilities,.skills{
+
+    text-align:justify;
+    background: var(--color-bg-variant);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    margin-top: 2.5rem;
+}
+
+.responsibilities:hover,.skills:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+h3{
+    text-align: center;
+    color: var(--color-primary);
+}
+
+#edusera{
+    padding: 3rem;
+    margin-top: -1rem;
+}
+
+
+b{
+    color:var(--color-primary);
+}
+
+.arrow{
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+@media screen and (max-width:628px){
+    .responsibilities,.skills{
+        padding: 2.4rem 1rem;
+    }
+    #edusera{
+        padding: 1rem;
+        margin-top: 1rem;
+    }
+}

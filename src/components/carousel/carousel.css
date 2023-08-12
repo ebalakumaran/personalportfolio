@@ -1,0 +1,36 @@
+@media screen and (max-width: 740px){
+    #leftarrow{
+        left: 0px !important;
+    }
+    #rightarrow{
+        right: 0px !important;
+    }
+}
+
+@media screen and (max-width: 560px){
+    #certifications h2{
+        width: 100% !important;
+        margin: 30px auto;
+    }
+
+    #certifications{
+        width: 100%;
+        margin-bottom: 180px !important;
+        font-size: 1rem;
+    }
+
+    #imageDivCertification,#carouselDiv{
+        width: 90% !important;
+    }
+
+    #carouselDiv{
+        height: auto;
+    }
+
+    #leftarrow{
+        left: -10px !important;
+    }
+    #rightarrow{
+        right: -10px !important;
+    }
+}
