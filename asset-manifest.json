@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personalportfolio/static/css/main.822035f0.css",
-    "main.js": "/personalportfolio/static/js/main.ce281aeb.js",
+    "main.js": "/personalportfolio/static/js/main.0890c5a6.js",
     "static/media/Balakumaran_E_CV.pdf": "/personalportfolio/static/media/Balakumaran_E_CV.a9edfa33e1df1d8a3194.pdf",
     "static/media/me.png": "/personalportfolio/static/media/me.13364059574d0c830ab9.png",
     "static/media/about.jpeg": "/personalportfolio/static/media/about.54cadfd37a1c0d0a199a.jpeg",
@@ -20,10 +20,10 @@
     "static/media/simplilearn.jfif": "/personalportfolio/static/media/simplilearn.696b5929e3dd4e761017.jfif",
     "index.html": "/personalportfolio/index.html",
     "main.822035f0.css.map": "/personalportfolio/static/css/main.822035f0.css.map",
-    "main.ce281aeb.js.map": "/personalportfolio/static/js/main.ce281aeb.js.map"
+    "main.0890c5a6.js.map": "/personalportfolio/static/js/main.0890c5a6.js.map"
   },
   "entrypoints": [
     "static/css/main.822035f0.css",
-    "static/js/main.ce281aeb.js"
+    "static/js/main.0890c5a6.js"
   ]
 }
