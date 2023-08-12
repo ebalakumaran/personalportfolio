@@ -6,12 +6,12 @@ import Devtown from './components/devtown/devtown'
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 function App(){
     return (
-        <Router>
+        <Router basename="/personalportfolio">
             <Routes>
-                <Route exact path="/" element={<Home/>}/>
-                <Route exact path="/commscope" element={<Commscope/>}/>
-                <Route exact path="/edusera" element={<Edusera/>}/>
-                <Route exact path="/devtown" element={<Devtown/>}/>
+                <Route exact path="/personalportfolio" element={<Home/>}/>
+                <Route path="/commscope" element={<Commscope/>}/>
+                <Route path="/edusera" element={<Edusera/>}/>
+                <Route path="/devtown" element={<Devtown/>}/>
             </Routes>
         </Router>
     )
